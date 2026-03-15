@@ -1,0 +1,15 @@
+1. O roteiro do laboratório está na Aula 04, realizada na quinta-feira, dia 10/03/2026.
+	- Execute o roteiro do laboratório.
+	- Responda às perguntas.
+	- Disponibilize a entrega na Aula 05, na pasta ‘Entrega’.
+2. A Aula 5 corresponde à reposição da aula que não ocorreu devido ao Carnaval. 
+3. Em resumo: 
+	- O roteiro está na Aula 04.
+	- A entrega deve ser feita na Aula 05.
+	- Nomeie o arquivo com o seu_nome_completo.
+	- Coloque-o na pasta Aula 05 > Entrega.
+4. Data limite: 
+	- Domingo, 15/03/26, às 23:59.
+	- Após esse horário, o envio será bloqueado automaticamente.
+
+Bons estudos, galera!
